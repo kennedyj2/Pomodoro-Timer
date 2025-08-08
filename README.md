@@ -2,10 +2,6 @@
 
 A beautifully designed, browser-based Pomodoro Timer to help you stay focused and productive.
 
-![Pomodoro Timer Screenshot](insert-screenshot-url-here)
-
----
-
 ## 🌟 Overview
 
 This application provides a simple yet effective Pomodoro Timer, allowing users to break work into intervals with customizable start, stop, and reset controls. The interface is clean, responsive, and features a relaxing gradient background for a smooth user experience.
